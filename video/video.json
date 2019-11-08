@@ -1,5 +1,8 @@
 {
-  "version": "1.0",
-  "versionCode": 1,
-  "url": "www.google.com"
+  "success": 1,
+  "info":{
+    "version": "1.0",
+    "versionCode": 1,
+    "url": "www.google.com"
+  }
 }
