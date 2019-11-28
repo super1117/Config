@@ -3,6 +3,16 @@
   "info":{
     "version": "1.0",
     "versionCode": 1,
-    "url": "www.google.com"
+    "url": "www.google.com",
+    "message":{
+      "title": "友情提示",
+      "message": "视屏中的博彩信息不可信！\n视频中的博彩信息不可信！\n视频中的博彩信息不可信！\n\n重要的事情说三遍！\n\n----------------------------------------\n\n部分视频可能会卡顿，建议在WIEI下观看！",
+      "systemMessage": "视屏中的博彩信息不可信！\n视频中的博彩信息不可信！\n视频中的博彩信息不可信！\n\n重要的事情说三遍！\n\n----------------------------------------\n\n部分视频可能会卡顿，建议在WIEI下观看！",
+      "neutral": "",
+      "negative": "",
+      "positive": "知道了",
+      "alertLevel": "1",
+      "cancelable": false
+     }
   }
 }
