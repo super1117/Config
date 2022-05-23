@@ -1,0 +1,13 @@
+{
+  "success": 1,
+  "info":{
+    "version": "1.5.12",
+    "versionCode": 1512,
+    "url": "",
+    "exit": 0,
+    "message":{
+      "title": "温馨提示",
+      "message": ""
+     }
+  }
+}
