@@ -1,0 +1,17 @@
+{
+  "url": "https://www.bebet777.com",
+  "appKey": "",
+  "logEvent": "adjustlogEvent",
+  "orientation": "setOrientation",
+  "packageName": "getPackageName",
+  "deviceId": "getDeviceId",
+  "adjustKey": "getAdJustKey",
+  "copyClipBoard": "copyToClipBoard",
+  "shareFacebook": "FacebookShareUrl",
+  "shareWhatsApp": "WhatsAppShareUrl",
+  "tokenMap": [
+      {"a_charge": "7u6rmb"},
+      {"a_firstCharge": "p48sj5"},
+      {"a_register": "hjx409"}
+  ]
+}
