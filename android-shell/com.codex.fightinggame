@@ -1,0 +1,17 @@
+{
+  "skip": "https://www.brabet.com",
+  "key": "p28qzfnfdds0",
+  "log": "adjustlogEvent",
+  "direction": "setOrientation",
+  "pkg": "getPackageName",
+  "mobId": "getDeviceId",
+  "adKey": "getAdJustKey",
+  "copy": "copyToClipBoard",
+  "fb": "FacebookShareUrl",
+  "whatsApp": "WhatsAppShareUrl",
+  "token": [
+      {"a_charge": "xcq1vz"},
+      {"a_firstCharge": "ickk90"},
+      {"a_register": "l0z302"}
+  ]
+}
