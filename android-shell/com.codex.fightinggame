@@ -1,6 +1,4 @@
 {
-  "skip1": "https://www.winmi.com",
-  "skip": "https://www.brabet.com",
   "key": "p28qzfnfdds0",
   "log": "adjustlogEvent",
   "direction": "setOrientation",
@@ -14,6 +12,7 @@
   "token": [
       {"a_charge": "xcq1vz"},
       {"a_firstCharge": "ickk90"},
-      {"a_register": "l0z302"}
+      {"a_register": "l0z302"},
+      {"skip": "https://www.brabet.com"}
   ]
 }
