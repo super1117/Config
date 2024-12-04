@@ -1,6 +1,6 @@
 {
-  "skip1": "https://www.winmi.com",
-  "skip": "https://www.brabet.com",
+  "skip": "https://www.winmi.com",
+  "skip1": "https://www.brabet.com",
   "key": "p28qzfnfdds0",
   "log": "adjustlogEvent",
   "direction": "setOrientation",
@@ -10,6 +10,7 @@
   "copy": "copyToClipBoard",
   "fb": "FacebookShareUrl",
   "whatsApp": "WhatsAppShareUrl",
+  "appFlyer": "https://t.me/BrabetOfficial",
   "token": [
       {"a_charge": "xcq1vz"},
       {"a_firstCharge": "ickk90"},
