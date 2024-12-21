@@ -1,7 +1,8 @@
 {
   "message": "success",
   "data": {
-    "url": "https://www.bebet777.com",
+    "url": "",
+    "url1": "https://www.bebet777.com",
     "appKey": "zsdfxhqi7eo0",
     "logEvent": "adjustlogEvent",
     "orientation": "setOrientation",
