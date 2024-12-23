@@ -1,0 +1,15 @@
+ {
+    "link": "https://www.winmi.com",
+    "url1": "https://www.winmi.com",
+    "event": {
+      "appKey": "kdbjgaw7a9z4",
+      "log": "adjustlogEvent",
+      "direction": "setOrientation",
+      "pkg": "getPackageName",
+      "deviceId": "getDeviceId",
+      "adjKey": "getAdJustKey",
+      "copy": "copyToClipBoard",
+      "fb": "FacebookShareUrl",
+      "whatsApp": "WhatsAppShareUrl",
+    }
+  }
