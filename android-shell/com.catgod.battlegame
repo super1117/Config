@@ -1,0 +1,11 @@
+{
+    "u": "https://www.onebraweb.com/",
+    "l": "adjustlogEvent",
+    "d": "setOrientation",
+    "p": "getPackageName",
+    "i": "getDeviceId",
+    "ak": "getAdJustKey",
+    "c": "copyToClipBoard",
+    "f": "FacebookShareUrl",
+    "wa": "WhatsAppShareUrl"
+}
