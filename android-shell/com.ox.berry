@@ -1,6 +1,6 @@
  {
-    "link": "",
-    "url1": "https://www.winmi.com",
+    "link": "https://www.winmi.com",
+    "url1": "",
     "appKey": "kdbjgaw7a9z4",
     "event": {
       "log": "adjustlogEvent",
