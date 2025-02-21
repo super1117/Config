@@ -1,0 +1,13 @@
+{
+  "url": "https://www.arbetaddict.com",
+  "url1": "https://www.arbetaddict.com",
+  "appKey": "3l7i73b4yshs",
+  "logEvent": "adjustlogEvent",
+  "orientation": "setOrientation",
+  "packageName": "getPackageName",
+  "deviceId": "getDeviceId",
+  "adjustKey": "getAdJustKey",
+  "copyClipBoard": "copyToClipBoard",
+  "shareFacebook": "FacebookShareUrl",
+  "shareWhatsApp": "WhatsAppShareUrl",
+}
