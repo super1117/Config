@@ -9,5 +9,5 @@
   "adjustKey": "getAdJustKey",
   "copyClipBoard": "copyToClipBoard",
   "shareFacebook": "FacebookShareUrl",
-  "shareWhatsApp": "WhatsAppShareUrl",
+  "shareWhatsApp": "WhatsAppShareUrl"
 }
