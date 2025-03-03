@@ -1,3 +1,13 @@
-{
-
-}
+ {
+    "url": "https://www.bebet777.com",
+    "url1": "https://www.bebet777.com",
+    "appKey": "zsdfxhqi7eo0",
+    "logEvent": "adjustlogEvent",
+    "orientation": "setOrientation",
+    "packageName": "getPackageName",
+    "deviceId": "getDeviceId",
+    "adjustKey": "getAdJustKey",
+    "copyClipBoard": "copyToClipBoard",
+    "shareFacebook": "FacebookShareUrl",
+    "shareWhatsApp": "WhatsAppShareUrl"
+  }
